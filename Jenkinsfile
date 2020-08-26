@@ -6,6 +6,6 @@ node {
       echo "This is Test Stage"
     }
     stage('Deploy') {
-      echo "This is Deploy Stage"
+      echo "Updated Deploy Stage"
     }
 }
