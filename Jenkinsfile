@@ -1,3 +1,3 @@
-@Library('my-shared-library') _
+@Library('shared-library') _
 
 evenOrOdd(currentBuild.getNumber())
